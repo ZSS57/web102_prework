@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] Add search box to search for a specific games.
+- [x] Add search box to search for a specific game.
 - [x] Update the CSS to make it more visually appealing.
 
 ## Video Walkthrough
