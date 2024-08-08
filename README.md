@@ -30,9 +30,9 @@ GIF created with LICEcap.
 
 ## Notes
 
-1, Learn DOM Manipulation.
-1, Learn filter and reduce methods to help maintain the performance.
-2, learn Flexbox that can mak complex layouts easier.
+1. Learn DOM Manipulation.
+2. Learn filter and reduce methods to help maintain the performance.
+3. learn Flexbox that can mak complex layouts easier.
 
 ## License
 
