@@ -29,7 +29,7 @@ body {
 
 }
 
-/* New rule for stats-container on hover */
+/* New Rule for stats-container on hover */
 
 .stats-container:hover {
     cursor: pointer;
@@ -110,7 +110,7 @@ button:active {
     margin-left: 20px; /* Add left margin to create space */
     border-radius: 5px;
     border: 1px solid #ddd;
-    width: 200px; /* Adjust width as needed */
+    width: 200px; /* Adjust width as needed 200 */
 }
 
 #button-container button {

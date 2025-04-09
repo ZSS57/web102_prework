@@ -207,6 +207,7 @@ const searchBtn = document.getElementById("search-btn");
 searchBtn.addEventListener("click", searchGames);
 
 // Optionally, add event listener to the input field to search on enter key press
+// learn event listener
 document.getElementById("search-input").addEventListener("keyup", (event) => {
     if (event.key === "Enter") {
         searchGames();
