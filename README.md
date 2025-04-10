@@ -2,7 +2,7 @@
 
 Submitted by: **Sha Zhao**
 
-**CheckFunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**CheckFunding** is a website created by the company Sea Monster Crowdfunding to showcase the games they have supported.
 
 Time spent: **8** hours spent in total
 
@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/ZSS57/web102_prework/blob/main/ProjectVideo.gif' title='Website Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ZSS57/web102_prework/blob/main/ProjectVideoGoThrough.gif' title='Website Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LICEcap.
 
