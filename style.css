@@ -110,7 +110,7 @@ button:active {
     margin-left: 20px; /* Add left margin to create space */
     border-radius: 5px;
     border: 1px solid #ddd;
-    width: 200px; /* Adjust width as needed 200 */
+    width: 200px; /* Adjust width as needed 200px */
 }
 
 #button-container button {
